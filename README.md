@@ -9,10 +9,10 @@ Recently, he was awarded the Icon of the Year for Excellence in Mentoring Techno
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ```Book: microservices using .NET 5```
+- 🔭 I’m currently working on ```Book: microservices in Azure``` also working on opensource Database 
 - 🌱 I’m currently learning ```Neuron diagram```
 - 👯 I’m looking to collaborate on [TDD-Katas Repo](https://github.com/garora/TDD-Katas)
-- 🤔 I’m looking for coauthors ```Books on Microsoft technologies```
+- 🤔 I’m looking for coauthors ```Books on Microsoft technologies, AIL/ML, JAVA, Functional programings```
 - 💬 Ask me about [About Gaurav](https://gaurav-arora.com)
 - 📫 How to reach me: [@g_arora](https://twitter.com/g_arora)
 - 😄 Pronouns: he/him/his
