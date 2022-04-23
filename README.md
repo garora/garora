@@ -1,7 +1,6 @@
 ### Know Gaurav Arora
 [Gaurav Arora](https://www.linkedin.com/in/aroragaurav/) is a technology enthusiast and tech-mentor. He has a doctorate in computer science. Gaurav is a Mentor of Change with ATL, Govt. of India, he is a Business Coach with Business Blaster ( a real Shark Tank), Govt. of NCT of Delhi, and is a Microsoft MVP award recipient. He is a lifetime member of the Computer Society of India (CSI), an advisory member and senior mentor of IndiaMentor, certified as a Scrum trainer/coach, ITIL-F certified, and PRINCE-F and PRINCE-P certified. He is an open source developer, and a contributor to the Microsoft TechNet community. 
 
-Recently, he was awarded the Icon of the Year for Excellence in Mentoring Technology Startups for the 2018-19 by Radio City, which is a Jagran Initiative, for his extraordinary work during his career of 24 years in the industry and the field of technology mentoring.
 
 <!--
 **garora/garora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +8,7 @@ Recently, he was awarded the Icon of the Year for Excellence in Mentoring Techno
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ```Book: microservices in Azure``` also working on opensource Database 
+- 🔭 I’m currently working on ```Book: Computer Science and Neurons``` also working on opensource Database 
 - 🌱 I’m currently learning ```Neuron diagram```
 - 👯 I’m looking to collaborate on [TDD-Katas Repo](https://github.com/garora/TDD-Katas)
 - 🤔 I’m looking for coauthors ```Books on Microsoft technologies, AIL/ML, JAVA, Functional programings```
